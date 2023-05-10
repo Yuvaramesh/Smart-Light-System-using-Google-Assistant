@@ -2,12 +2,12 @@
 
 The Smart Light System is an application that allows you to control your home lights using voice commands through Google Assistant. This system is designed to be easy to use and can be set up in a few simple steps. Here are the instructions for setting up and running the Smart Light System:
 
-Installation
+Installation:
 
 (i)Install the Google Assistant app on your smartphone.
 (ii)Connect your smart home device(s) to your Google Assistant account.
 
-Usage
+Usage:
 
 (i)To turn on a light, say "Hey Google, turn on [light name]."
 (ii)To turn off a light, say "Hey Google, turn off [light name]."
